@@ -10,11 +10,11 @@
 
 # Task 2:
 
-  - [ ] The character class is correctly defined in a .h and .cpp file as described in Instructions.md[https://github.com/WSU-CS-3100/Project2/blob/main/Instructions.md]
+  - [ ] The character class is correctly defined in a .h and .cpp file as described in [Instructions.md](https://github.com/WSU-CS-3100/Project2/blob/main/Instructions.md)
 
 # Task 3:
 
-  - [ ] The character class includes all member data and member functions described in Instructions.md[https://github.com/WSU-CS-3100/Project2/blob/main/Instructions.md]
+  - [ ] The character class includes all member data and member functions described in [Instructions.md](https://github.com/WSU-CS-3100/Project2/blob/main/Instructions.md)
 
 # Task 4:
 
